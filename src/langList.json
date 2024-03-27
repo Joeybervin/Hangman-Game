@@ -1,0 +1,22 @@
+[
+{
+    "lang": "français",
+    "apiUrl": "fr"
+},
+{
+    "lang": "anglais",
+    "apiUrl": "en"
+},
+{
+    "lang": "allemand",
+    "apiUrl": "de"
+},
+{
+    "lang": "espagnol",
+    "apiUrl": "es"
+},
+{
+    "lang": "italian",
+    "apiUrl": "it"
+}
+]
